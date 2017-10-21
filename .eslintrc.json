@@ -1,0 +1,15 @@
+{
+  "extends": "aqua",
+  "rules": {
+    "capitalized-comments": ["off"],
+    "consistent-return": ["off"],
+    "id-length": ["off"],
+    "max-len": ["off"],
+    "newline-per-chained-call": ["off"],
+    "no-console": ["off"],
+    "no-process-env": ["off"],
+    "no-shadow": ["off"],
+    "operator-linebreak": ["error", "after"],
+    "quotes": ["error", "backtick"]
+  }
+}
